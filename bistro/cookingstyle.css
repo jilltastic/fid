@@ -1,0 +1,19 @@
+body{
+  background: #D8BFD8
+}
+h1,h2{ font-family: Georgia,sans-serif;}
+h1 {
+  color: darkmagenta;
+  border-bottom: 1px solid #57b1dc;
+}
+p {
+  font-size: large;
+  margin-left: 100px;
+}
+h2 { color: darkmagenta;
+  margin-left: 100px;
+}
+img {
+  float: right;
+  margin: 0 12px;
+}
