@@ -1,0 +1,8 @@
+ol, ul {
+list-style-type: none;
+}
+body {
+background-color:#e5bfa6;
+margin: 0 10%
+font-family: sans-serif;
+}
